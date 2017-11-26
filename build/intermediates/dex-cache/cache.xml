@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_49b29770febfb56dddf081172fc6d5e0e89c2ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\.gradle\caches\modules-2\files-2.1\com.ibm.mobilefirstplatform.clientsdk.android\core\3.0.0-SNAPSHOT\4588138294b63c8dfaa212f4ea43ec5257c658d5\core-3.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4588138294b63c8dfaa212f4ea43ec5257c658d5">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.0.0-SNAPSHOT_b83eebcfbe390143a88fb1c2a0ebc269588d67b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\.gradle\caches\modules-2\files-2.1\com.ibm.mobilefirstplatform.clientsdk.android\analyticsapi\1.2.0-SNAPSHOT\27a6d668d2b23ee86c06a9fdeafc7b05b290ee93\analyticsapi-1.2.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27a6d668d2b23ee86c06a9fdeafc7b05b290ee93">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\analyticsapi-1.2.0-SNAPSHOT_736827521bba2422accc040549e28906ca7c36a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.8.1-SNAPSHOT\edbfc1627b3d80c8393ae5e89b5c673cbac51584\speech-to-text-3.8.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edbfc1627b3d80c8393ae5e89b5c673cbac51584">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\speech-to-text-3.8.1-SNAPSHOT_1a0b4756d3c44a7174a949cb2ed668270a4a17ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6e369925b90e25f246147139eadd9f09748e5fe">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bcfe531f52c94524305822775084716cc129315b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nguyet\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.8.1-SNAPSHOT\df820cc72addbec5d0af19d89977d144ad761729\core-3.8.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df820cc72addbec5d0af19d89977d144ad761729">
+        <dex dex="C:\Users\Nguyet\Desktop\chatbot-watson-android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.8.1-SNAPSHOT_f88f0c85e021912028fd9ad0239450f0fe51b5bc\classes.dex" />
+    </item>
+
+</items>
